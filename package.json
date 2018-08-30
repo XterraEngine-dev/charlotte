@@ -1,0 +1,30 @@
+{
+  "name": "charlotte",
+  "version": "1.0.0",
+  "description": "Excel BIG DATA",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XterraEngine-dev/charlotte.git"
+  },
+  "author": "Luis Cifuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XterraEngine-dev/charlotte/issues"
+  },
+  "homepage": "https://github.com/XterraEngine-dev/charlotte#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "csv": "^3.1.0",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.3",
+    "list-directories": "^1.1.0",
+    "list-files": "^1.1.4",
+    "list-files-in-dir": "^0.1.4",
+    "xlsx": "^0.13.5",
+    "xlsx-converter": "^0.1.0"
+  }
+}
